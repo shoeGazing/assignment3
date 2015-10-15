@@ -43,8 +43,8 @@ When the cart modal is open, if the user presses **esc**, you need to hide the m
 
 ## Submission instructions:
 
-* Add a folder called **assignment2** in your github repo.
-* Copy the code from your assignment 1 (or the one provided as solution for assignment 1)
+* Add a folder called **assignment3** in your github repo.
+* Copy the code from your assignment2
 * Update the code to reflect the changes for this assignment.
 * Make sure you push your changes before midnight (11:59 PM) before the day when assignment is due - late submissions will not be accepted.
 * We will be downloading the code on the midnight before the due date, any changes to code after that point will not be considered for marking.
