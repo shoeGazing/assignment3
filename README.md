@@ -32,7 +32,7 @@ This is a continuation of [Assignment 2](https://github.com/erkartik91/assignmen
 
 4. **Show Cart:** When clicking on the  **Cart ($0)** button, the user should be presented with a Modal, that looks like [this](http://maxcdn.webappers.com/img/2011/03/css-modal.png). The modal should perform the following functionality
   - The modal should appear in the center of the window, with a transparent black bakground around the modal.
-  - The modal shoudl have a button to close the link in the top right corner, as shown in the link.
+  - The modal should have a button to close the link in the top right corner, as shown in the link.
   - You need to clearly present the user with the list of products in the cart, quantity of each product and total price and a tabular manner.
   - You also need to show **+/-** buttons within the table. Clicking on these buttons should increment/decrement the quantity of products in the cart. You can hook on to addToCart and removeFromCart functions, as they were already incrementing/decrementing the products in the cart.
   - If the quanity if the product reaches 0, you need to remove it completely form the tabular display in the modal.
