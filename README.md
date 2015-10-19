@@ -6,17 +6,17 @@ This is a continuation of [Assignment 2](https://github.com/erkartik91/assignmen
 
 1. **Add Price in product:** Modify your **product** and **cart** variables to include both the price and quantity now (earlier you had only the quantity). You can use following data format for the product and the cart. 
   ```
-  var product = [
+  var product = {
     'productName1' : {
-      'price' : 10
-      'quanitity' : 10
+      'price' : 10,
+      'quantity' : 10
     },
     'productName2' : {
-      'price' : 10
-      'quanitity' : 10
+      'price' : 10,
+      'quantity' : 10
     },
     ...
-  ];
+  };
   
   var cart = {
     'productName1' : 0,
