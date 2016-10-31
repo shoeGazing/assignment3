@@ -57,8 +57,8 @@ There are multiple ways to go about implementing the tasks specified in this ass
 * Update the code to reflect the changes for this assignment.
 * Create a branch called assignment-3.
 * Make sure you push your changes before the due date - late submissions will not be accepted.
-* For students in L1A, the assignment is due on Monday, October 31 at 11:59 PM.
-* For students in L1B, the assignment is due on Wednesday, November 2 at 11:59 PM.  
+* For students in L1A, the assignment is due on Tuesday, November 1 at 11:59 PM.
+* For students in L1B, the assignment is due on Thursday, November 3 at 11:59 PM.
 * We will be downloading the code on the due date, any changes to the code after that point will not be considered for marking.
 
 ## Labs are mandatory on the week of assignment submission:
