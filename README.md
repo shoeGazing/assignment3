@@ -44,7 +44,7 @@ This is a continuation of [Assignment 2](https://github.com/shoeGazing/assignmen
 
 ## Code Quality
 
-(3 points) You should ensure that your JavaScript code follows the best practices around variable naming, variable placement, modularization (dividing long code blocks into smaller functions) and comments (at the minimum, describing what each function does). Your code will be assessed for code quality during marking.
+(3 points) You should ensure that your JavaScript code follows the best practices around variable/function naming, variable placement, modularization (dividing long code blocks into smaller functions) and comments (your comments should explain why a design choice was taken, instead of how). Your code will be assessed for code quality during marking.
 
 ## Scalability
 
